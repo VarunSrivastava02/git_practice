@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hi There, 
 its my first code commit. im loving it.
 
 16th June India vs Pak
+=======
+hi There, 
+its my first code commit. im loving it.
+>>>>>>> 9c3e710627302d30f084fe103b5787bc49d4366e
